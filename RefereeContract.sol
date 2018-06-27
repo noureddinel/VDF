@@ -1,3 +1,4 @@
+#foked from http://www.jbonneau.com/doc/BGB17-IEEESB-proof_of_delay_ethereum.pdf
 pragma solidity ^0.4.7;
 import "SequentialHashing";
 
