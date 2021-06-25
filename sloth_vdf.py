@@ -16,6 +16,7 @@ def quad_res(x, p):
 
 
 def mod_sqrt_op(x, p):
+    # The local variable 'y' here referenced before assignment --> it causes an ERROR
     if quad_res(x, p):
         pass
     else:
